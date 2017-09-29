@@ -29,6 +29,8 @@ public class Application {
 
         return args -> {
 
+// test 
+
         	List<ProductDO> products = new ArrayList<ProductDO>();
             		
             products.add(new ProductDO(5,5));
